@@ -1,0 +1,29 @@
+<?php
+$logo="
+        http://dexo.my.id/nu/assets/img/php source code.png
+        ";
+$menu1="
+        Home
+        ";
+$menuurl1="
+        index.php
+        ";
+$menu2="
+        About
+        ";
+$menuurl2="
+        about.php
+        ";
+$menu3="
+       Services
+        ";
+$menuurl3="
+        services.php
+        ";
+$menu4="
+       Contact
+        ";
+$menuurl4="
+        contact.php
+        ";
+?>

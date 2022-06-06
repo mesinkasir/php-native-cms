@@ -1,0 +1,20 @@
+<nav class="navbar navbar-expand-lg fixed-top navi">
+  <div class="container-fluid">
+    <a class="navbar-brand text-white" href="#"><?php print '<img width="40" class="img-fluid" alt="'.$title.'" src="'.$logo.'"/>' ; ?></a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-columns-gap" viewBox="0 0 16 16">
+  <path d="M6 1v3H1V1h5zM1 0a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1h5a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1H1zm14 12v3h-5v-3h5zm-5-1a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1h5a1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1h-5zM6 8v7H1V8h5zM1 7a1 1 0 0 0-1 1v7a1 1 0 0 0 1 1h5a1 1 0 0 0 1-1V8a1 1 0 0 0-1-1H1zm14-6v7h-5V1h5zm-5-1a1 1 0 0 0-1 1v7a1 1 0 0 0 1 1h5a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1h-5z"/>
+</svg>
+    </button>
+    <div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
+      <div class="navbar-nav p-3">
+        <?php echo '
+        <a class="nav-link" href="'.$menuurl1.'">'.$menu1.'</a>
+        <a class="nav-link" href="'.$menuurl2.'">'.$menu2.'</a>
+        <a class="nav-link" href="'.$menuurl3.'">'.$menu3.'</a>
+        <a class="nav-link" href="'.$menuurl4.'">'.$menu4.'</a>
+        ' ; ?>
+      </div>
+    </div>
+  </div>
+</nav>

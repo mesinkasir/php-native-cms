@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap');
+body,html {
+    background-color: #e7edfe;
+    font-family: 'Comfortaa', cursive;
+}
+.phps {
+    background-color: #485f9a;
+}
+.navi {
+ background-color: #9db8fa; 
+}
+a:link {
+  text-decoration: none;
+}
+.php {
+ color: #6389e8; 
+}
+a:visited {
+  text-decoration: none;
+}
