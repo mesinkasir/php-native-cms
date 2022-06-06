@@ -1,6 +1,6 @@
 <?php
 $baseurl="
-        http://dexo.my.id/nu/
+        https://axcora.my.id/php-native/contact.php
         " ;
 $cover="
         https://www.carminesquillace.it/wp-content/uploads/2021/08/art-8_wallpaper.png
