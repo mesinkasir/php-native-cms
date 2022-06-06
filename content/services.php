@@ -12,9 +12,7 @@ $description="
         A new generation of PHP content management system
         ";
 $content="
-        Lorep ipsum dolor siamet amet jabang bayi lanang wedok 
-        Lorep ipsum dolor siamet amet jabang bayi lanang wedok 
-        Lorep ipsum dolor siamet amet jabang bayi lanang wedok 
+        For detail information how to work and use PHP Native CMS you can visit https://axcora.my.id/php-native/ 
         ";
 $content1="
         Lorep ipsum dolor siamet amet jabang bayi lanang wedok 
