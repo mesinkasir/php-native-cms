@@ -1,6 +1,6 @@
 <?php
 $baseurl="
-        http://dexo.my.id/nu/
+        https://axcora.my.id/php-native/
         " ;
 $title="
         PHP Native CMS
